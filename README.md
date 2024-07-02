@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is the result of my participation in a hackathon where I leveraged Convolutional Neural Networks (CNNs) to predict weather patterns, specifically focusing on distinguishing between 'rainy season' and 'dry season'. The project not only won the accolade for 'Biggest Climate Impact' but also aims to provide actionable insights to pastoralists, helping them adapt their strategies based on the weather predictions.
+This project is the result of my participation in a hackathon where I leveraged Convolutional Neural Networks (CNNs) to predict weather patterns, specifically focusing on distinguishing between 'rainy season' and 'dry season'. The project not only won the accolade for Biggest Climate Impact but also aims to provide actionable insights to pastoralists, helping them adapt their strategies based on the weather predictions.
 
 ## Objectives
 
